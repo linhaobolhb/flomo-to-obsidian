@@ -1,6 +1,6 @@
 {
-	"id": "flomo-importer-sync",
-	"name": "Flomo Importer Dev",
+	"id": "flomo-to-obsidian",
+	"name": "Flomo to Obsidian",
 	"version": "2.0.0",
 	"minAppVersion": "1.5.0",
 	"description": "Make Flomo Memos to Obsidian Notes",
